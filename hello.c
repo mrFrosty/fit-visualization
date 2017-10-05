@@ -5,7 +5,7 @@ int main()
    char sentence[1000];
    FILE *fptr;
 
-   fptr = fopen("program.txt", "w");
+   fptr = fopen("/home/rabbit/Downloads/program.txt", "w");
    if(fptr == NULL)
    {
       printf("Error!");
