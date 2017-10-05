@@ -1,5 +1,3 @@
 #!/bin/bash
 
-echo "Good morning from FF." > out.txt
-
-ifconfig > out.txt
+echo "Good morning from FF." > ~/Downloads/out.txt
