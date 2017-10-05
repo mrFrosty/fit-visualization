@@ -1,1 +1,1 @@
-ifconfig ~/Downloads/if.txt
+ifconfig > ~/Downloads/if.txt
