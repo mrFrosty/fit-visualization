@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 
-/bin/ps > ~/Downloads/out.txt
+ifconfig > ~/Downloads/out.txt
