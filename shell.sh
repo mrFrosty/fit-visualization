@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Good morning from FF." > ~/Downloads/out.txt
+/bin/cat ~/Downloads/shell.sh > ~/Downloads/out.txt
